@@ -1,0 +1,23 @@
+
+button {
+  background-color: coral;
+  border: none;
+  padding: 0;
+	margin: 1vw;
+  text-decoration: underline;
+	color: blue;
+  cursor: pointer;
+	width: 150px;
+	height: 35px;
+}
+
+button:active,
+button:visited {
+	color:rgb(1, 128, 122);
+}
+
+button:hover {
+	font-size: 110%;
+}
+
+

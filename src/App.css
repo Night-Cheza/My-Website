@@ -1,1 +1,8 @@
 
+#links {
+	display: flex;
+	position: sticky;
+	max-width: 99%;
+	gap: 2rem;
+}
+
