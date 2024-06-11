@@ -3,12 +3,9 @@ h1 {
 }
 
 .header {
-	background-image: url('/src/assets/header.png');
-	background-size: cover;
-	background-color: #282c34;
-	background-position: center;
-	height: 90vh;
-	font-size: calc(10px + 2vmin);
+	height: 20vh;
+	margin: 5vh 0vh;
+	font-size: calc(12px + 2vmin);
 	color: white;
 	text-align: center;
 }
