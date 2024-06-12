@@ -1,11 +1,11 @@
 h1,
 p {
-	margin: 0 5vw 5vh 5vw;
+	margin: 0 5vw 3vh 5vw;
 }
 
-.header {
-	height: 30vh;
-	margin: 5vh 0vh;
+header {
+	height: 28vh;
+	margin: 3vh 0 0 0 ;
 	font-size: calc(12px + 2vmin);
 	color: white;
 	text-align: center;
