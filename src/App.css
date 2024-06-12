@@ -1,8 +1,16 @@
-
 #links {
 	display: flex;
 	position: sticky;
 	gap: 2rem;
 	justify-content: center;
+}
+
+h3 {
+	text-align: center;
+	margin-top: 5vh;
+}
+
+section {
+	white-space: pre-wrap;
 }
 
