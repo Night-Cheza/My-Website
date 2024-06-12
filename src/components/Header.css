@@ -1,9 +1,10 @@
-h1 {
-	margin:0 0 2vh 0;
+h1,
+p {
+	margin: 0 5vw 5vh 5vw;
 }
 
 .header {
-	height: 20vh;
+	height: 30vh;
 	margin: 5vh 0vh;
 	font-size: calc(12px + 2vmin);
 	color: white;
