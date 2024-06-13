@@ -1,16 +1,39 @@
 #links {
 	display: flex;
-	position: sticky;
-	gap: 2rem;
+	gap: 3rem;
 	justify-content: center;
 }
 
 h3 {
 	text-align: center;
-	margin-top: 5vh;
+	padding-top: 3vh;
 }
 
 section {
 	white-space: pre-wrap;
+	margin: 5vh 10vw;
+	background-color: rgba(0, 75, 75, 0.5);
+	border-radius: 15px;
+	padding-bottom: 0.5vh;
 }
 
+img {
+	height: 40vh;
+	width: auto;
+	margin-left: 2vw;
+}
+
+#about,
+#vision,
+#learns {
+	height: 70vh;
+}
+
+#home{
+	display: flex;
+	height: 43vh;
+}
+
+#home p {
+	width: 30vw;
+}
