@@ -5,11 +5,14 @@ body {
 		sans-serif;
 	-webkit-font-smoothing: antialiased;
 	-moz-osx-font-smoothing: grayscale;
-	background-image: linear-gradient( rgba(48, 48, 48, 0.6), rgba(55, 55, 55, 0.5) ), url('/src/assets/background.png');
-	background-position: center;
+	background-image: linear-gradient( rgba(48, 48, 48, 0.5),  rgba(48, 48, 48, 0.5) ), url('/src/assets/background.png');
+	background-position: center no-repeat;
+	background-size: cover;
+	color: white;
+	overflow-y: hidden;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+div:empty {
+	height: 5vh;
+	width: 100%;
 }
