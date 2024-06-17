@@ -28,7 +28,7 @@ function App () {
 			<div id='links'>
 				<Button onClick={() => clickHandler('about')}>About Me</Button>
 				<Button onClick={() => clickHandler('vision')}>My Vision</Button>
-				<Button onClick={() => clickHandler('learns')}>My Learns</Button>
+				<Button onClick={() => clickHandler('studies')}>My Studies</Button>
 				<Button onClick={() => clickHandler('home')}>Home</Button>
 			</div>
 			<section>{section_info.map( ( data, _key ) => (
