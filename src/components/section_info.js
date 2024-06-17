@@ -18,7 +18,7 @@ export const section_info = [
 	{
 		'id': 'home',
 		'title': "Home",
-		'description': 'Welcome to my website! I am Leila, a passionate web developer who believes in blending creativity with technology.\n\nInstead of a traditional photo, I am sharing a unique art piece created by DALL-E. I hope you enjoy it as much as I do!\n\nFeel free to reach out to me at: blah@gmail.com.\n\nLooking forward to connecting!',
+		'description': 'Welcome to my website! I am Leila, a passionate web developer who believes in blending creativity with technology.\n\nInstead of a traditional photo, I am sharing a unique art piece created by DALL-E. I hope you enjoy it as much as I do!\n\nFeel free to reach out to me at: leila.kassi@outlook.com.\nLooking forward to connecting!',
 		'image': art
 	}
 ]
