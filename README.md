@@ -1,6 +1,6 @@
-1. ver 0.1
 May 13, 2024: starting my website.
 May 15-June 03: vacation
 June 10: resume working on the website
+June 14: Home, Abount me, and My vision sections are complete
 
-Plans: create a simple website as a react app. Don't put much on it. My goals, learns and about me
+Plans: create a simple website as a react app. Don't put much on it. My goals (became My vision), learns and about me
