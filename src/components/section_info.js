@@ -13,7 +13,7 @@ export const section_info = [
 	{
 		'id': 'learns',
 		'title': "My Learns",
-		'description': "courses I am taking now",
+		'description': "The Complete Python Bootcamp From Zero to Hero in Python (Udemy) - This course helps me build a solid foundation in Python programming, which is essential for diving deep into machine learning and neural networks. I am fascinated by the patterns that emerge from big data and am eager to develop the skills needed to analyze and interpret these patterns effectively.\n\n Machine Learning (Google for developers) - I believe that understanding machine learning is crucial in today's data-driven world. With everything revolving around data, mastering machine learning techniques allows me to harness the power of big data.\n\n ChatGPT Complete Guide: Learn Midjourney, ChatGPT 4 & More (Udemy) - I chose this course to learn how to leverage new and emerging AI technologies and incorporate them into my day-to-day personal and professional life. Understanding tools like ChatGPT and other AI advancements is essential for staying ahead in the tech industry and enhancing productivity and innovation.\n\n Advanced SQL for Data Scientists (Kaggle) - I am taking this course to enhance my database management skills, which are essential for handling large datasets in any tech or research role. Mastering SQL is a key step in my journey toward becoming skilled professional in handling big data.",
 	},
 	{
 		'id': 'home',
@@ -22,3 +22,5 @@ export const section_info = [
 		'image': art
 	}
 ]
+
+// \n\nReact - The Complete Guide 2024 (Udemy) - To enhance my skills in building dynamic, high-performance web applications, as I love building applications using JavaScript, and React is being an excellent tool for this purpose. React's ability to create reusable components makes it ideal for developing complex web applications that are both efficient and maintainable.
